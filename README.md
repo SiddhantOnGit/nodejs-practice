@@ -1,2 +1,2 @@
 # nodejs-practice
-code snippets
+NodeJS practice code snippets
